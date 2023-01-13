@@ -21,3 +21,5 @@ echo -e "\nnodejs > $(node --version).\nnpm  >>> v$(npm --version).\n"
 
 
 Бугун бэт кун
+Хата этэннэ эбит
+Оссо да сулууспалыыр ини
